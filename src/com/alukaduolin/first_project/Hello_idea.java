@@ -10,7 +10,6 @@ public class Hello_idea {
         System.out.println("Hello java");
         System.out.println("Hello java");
         System.out.println();
-        
         aa();
         System.out.println("Hello java");
 
